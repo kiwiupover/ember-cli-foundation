@@ -1,0 +1,6 @@
+{
+  "name": "ember-cli-foundation",
+  "dependencies": {
+    "foundation": "~5.3.1"
+  }
+}
