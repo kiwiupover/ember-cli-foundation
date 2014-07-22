@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-foundation",
   "description": "Include foundation into an ember-cli app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Dave Laird",
   "main": "index.js",
   "keywords": [
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kiwiupover/ember-cli-foundation/issues"
   },
-  "homepage": "https://github.com/kiwiupover/ember-cli-foundation"
+  "homepage": "https://github.com/kiwiupover/ember-cli-foundation",
+  "scripts": {
+    "postinstall": "sh .setup.sh"
+  },
 }
