@@ -14,5 +14,9 @@
     "type": "git",
     "url": "git@github.com:kiwiupover/ember-cli-foundation.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiwiupover/ember-cli-foundation/issues"
+  },
+  "homepage": "https://github.com/kiwiupover/ember-cli-foundation"
 }
