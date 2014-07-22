@@ -1,11 +1,11 @@
 ember-cli-foundation
 ===================
 
-###Be Warning - this is a work in progress
+###Be Warned: This is a work in progress
 
 This is an ember-cli addon that includes [Zurb's Foundation]('http://http://foundation.zurb.com/') into your ember-cli project.
 
-#Usage
+##Usage
 
 In the root of your ember-cli project directory, run:
 ```bash
